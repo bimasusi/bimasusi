@@ -6,13 +6,13 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a grade 9, High School Student.
-- 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
+- 🏫:Hi! I’m a university professor at Universidad EAFIT in Medellín, Colombia.
+- 🔭:  I was born in Bogotá 44 years ago, and the only country I’ve lived in besides Colombia is Mexico.
+- 🌱: I’ve always been fascinated by the mathematics found in nature. 🧠💻🤖
+- 🤔:  Over the years, I specialized in statistical and probabilistic modeling, particularly through the lens of stochastic processes that describe random phenomena. 😅
+- 💬: I love teaching, learning, and applying technology to everything I do. Right now,  📊📈🤖🧠
 - 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
+- ⚡  Fun fact: I’m in the process of transforming my research papers into practical tools and applications — and that’s why I’m learning Git and collaborative coding. ⚽🎾🎹
   
 <hr>
 <Br>
